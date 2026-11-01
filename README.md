@@ -42,7 +42,7 @@ I use this GitHub profile to document my learning, build practical projects, exp
 
 ### Machine Learning & Development Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn, numpy,git,github,vscode" alt="TensorFlow scikit-learn NumPy Git GitHub VS Code" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,git,github,vscode" alt="TensorFlow scikit-learn Git GitHub VS Code" />
 </p>
 
 <p>
@@ -118,6 +118,29 @@ I use this GitHub profile to document my learning, build practical projects, exp
 - [ ] Study sequence models, attention, and Transformers in depth
 - [ ] Learn model deployment, testing, and MLOps fundamentals
 - [ ] Develop research skills and reproduce ML papers
+
+
+## 🏗️ My Project & Portfolio Development Plan
+
+My goal is to turn what I learn into well-documented, reproducible engineering work. I am working toward the following milestones:
+
+1. **Create dedicated repositories for ML projects** — one repository per substantial project, with a clear scope, dataset/source information, and setup instructions.
+2. **Publish notebooks with explanations** — include the problem statement, data exploration, preprocessing decisions, model choices, experiments, and conclusions.
+3. **Report model performance honestly** — add suitable metrics (such as MAE/RMSE for regression or precision, recall, F1-score, and confusion matrices for classification) alongside plots and visualizations.
+4. **Build an AI/ML portfolio** — connect project repositories to a portfolio page with demonstrations, screenshots, results, and concise explanations.
+5. **Contribute consistently** — maintain a realistic learning and building schedule, track progress, and improve existing projects rather than chasing contribution counts.
+
+### Skill Growth & Profile Update Commitment
+
+This profile is a living record of my skills, not a fixed list. As I learn and demonstrate new skills through coursework, notebooks, experiments, and completed projects, I will:
+
+- Add newly learned tools, algorithms, and concepts to the relevant sections.
+- Move topics from **Currently Exploring** to **Topics Studied** only when I can explain and apply them.
+- Update project descriptions with real implementation details, results, metrics, and repository links.
+- Remove or revise outdated claims so the profile accurately reflects my current ability.
+- Keep strengthening fundamentals before presenting advanced topics as skills.
+
+**Ongoing reminder:** regularly review and upgrade my ML, Deep Learning, mathematics, programming, and software-engineering skills—and update this GitHub profile to match my demonstrated progress.
 
 ## 📊 GitHub Statistics
 
